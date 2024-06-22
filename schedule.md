@@ -1,7 +1,5 @@
 # Tour de L’Autriche Schedule
 
-Hey Luca correct me if I’m wrong... Here is the information I’ve been able to gather so far:
-
 
 ## 2024-08-11:
 
@@ -15,10 +13,14 @@ Transfer at **Ulm Hbf**
 EUR&nbsp;38.99 per person
 
 ### Evening
-Do ??? in Obersdorf
+~1&nbsp;hour walk from **Obertsdorf** to **Oberstdorf Hostel**
+#### Route
+https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=47.41130%2C10.27820%3B47.41750%2C10.24220#map=14/47.4141/10.2596
 
 ### Sleep
-At *???* in Obersdorf
+At **Oberstdorf Hostel** in Oberstdorf
+#### Location
+https://www.openstreetmap.org/way/227911613
 #### Cost
 Deposit of EUR&nbsp;45.94 per person
 Payment of EUR&nbsp;??? per person
@@ -27,17 +29,22 @@ Payment of EUR&nbsp;??? per person
 ## 2024-08-12:
 
 ### When???
-`Bus Linie 7` to **Birgsau**
+`Bus 7` from **Oberstdorf** to **Birgsau**
 #### Information
+[Check route](https://www.mona-allgaeu.de/)
 [Schedule](https://www.mona-allgaeu.de/fileadmin/user_upload/Gemeinde-Fahrplaene/MOA_PF-Oberstdorf.pdf)
 #### Cost
-EUR&nbsp;??? per person
+EUR&nbsp;4.61 per person
 
 ### When???
-Hike to **Mindelheimer Hütte**
+~2&nbsp;hour hike from **Birgsau** to **Mindelheimer Hütte**
+#### Route
+https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=47.3345%2C10.2677%3B47.2923%2C10.1949#map=13/47.3093/10.2367
 
 ### Sleep
-At *???* in **Mindelheimer Hütte**
+At **Mindelheimer Hütte**
+#### Location
+https://www.openstreetmap.org/way/38431259
 #### Cost
 EUR&nbsp;??? per person
 
@@ -45,7 +52,12 @@ EUR&nbsp;??? per person
 ## 2024-08-13
 
 ### When???
-Hike up to Gießhorn and back to Mindelheimer Hütte
+~1&nbsp;hour hike from **Mindelheimer Hütte** to Geißhorn
+#### Route
+https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=47.2923%2C10.1949%3B47.2879%2C10.1753
+
+### When???
+~1&nbsp;hour hike from Geißhorn to **Mindelheimer Hütte**
 
 ### Sleep
 See above
@@ -54,13 +66,17 @@ See above
 ## 2024-08-14
 
 ### When???
-Hike to Widderstein Hütte
+~???&nbsp;hour hike to **Widderstein Hütte**
+#### Route
+https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=47.2923%2C10.1949%3B47.2785%2C10.1369
 
 ### Evening
-Watch sunset in Widderstein Hütte
+Watch sunset from **Widderstein Hütte**
 
 ### Sleep
-At *???* in Widderstein Hütte
+At **Widderstein Hütte**
+#### Location
+https://www.openstreetmap.org/way/101963413
 #### Cost
 Deposit of EUR&nbsp;32.5 per person
 Payment of EUR&nbsp;??? per person
@@ -75,7 +91,7 @@ Hike to Höferspitze
 Hike to Körbersee
 
 ### Sleep
-At *Apart Wolf Arlberg* near Körbersee
+At **Apart Wolf Arlberg** near Körbersee
 #### Location
 https://www.openstreetmap.org/way/521796708
 #### Cost
@@ -96,12 +112,26 @@ See above
 ## 2024-08-17
 
 ### Morning
-Hike towards **Warth**
+~1&nbsp;hour hike to **Warth Dorfplatz**
+#### Route
+https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=47.2680%2C10.1437%3B47.2582%2C10.1833#map=14/47.2633/10.1634
 
-### When???
-Bus to Dornbirn
+### 13:28 - 15:24 (just one of many possible times... This one allows time to eat in Warth, but still flexible in case of delays)
+`Linie 852` from **Warth Dorfplatz** to **Schoppernau Gemeindeamt**
+Transfer at **Schoppernau Gemeindeamt**
+`Linie 850` from **Schoppernau Gemeindeamt** to **Dornbirn Bahnhof**
+#### Information
+[Check Route](https://www.vmobil.at/routen)
+[Linie 852 Schedule](https://www.vmobil.at/bus-bahn/das-vvv-liniennetz/linie-852)
+[Linie 850 Schedule](https://www.vmobil.at/bus-bahn/das-vvv-liniennetz/linie-850)
+#### Cost
+EUR&nbsp;12.70 per person
 
 ### 17:09 – 22:52
 `RJX 860` from **Dornbirn** to **Stuttgart Hbf**
 Transfer at **Stuttgart Hbf**
 `ICE 590` from **Stuttgart Hbf** to **Frankfurt (Main) Hbf**
+#### Information
+[Purchase tickets online](https://int.bahn.de/en/buchung/start?vbid=0dffde6e-e9c6-42ed-aaab-c548e92987a0)
+#### Cost
+EUR&nbsp;33.99 per person
