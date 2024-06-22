@@ -17,6 +17,9 @@ EUR&nbsp;38.99 per person
 #### Route
 https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=47.41130%2C10.27820%3B47.41750%2C10.24220#map=14/47.4141/10.2596
 
+### Dinner
+???
+
 ### Sleep
 At **Oberstdorf Hostel** in Oberstdorf
 #### Location
@@ -27,6 +30,9 @@ Payment of EUR&nbsp;??? per person
 
 
 ## 2024-08-12:
+
+### Lunch
+???
 
 ### When???
 `Bus 7` from **Oberstdorf** to **Birgsau**
@@ -40,6 +46,9 @@ EUR&nbsp;4.61 per person
 ~2&nbsp;hour hike from **Birgsau** to **Mindelheimer Hütte**
 #### Route
 https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=47.3345%2C10.2677%3B47.2923%2C10.1949#map=13/47.3093/10.2367
+
+### Dinner
+???
 
 ### Sleep
 At **Mindelheimer Hütte**
@@ -56,8 +65,14 @@ EUR&nbsp;??? per person
 #### Route
 https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=47.2923%2C10.1949%3B47.2879%2C10.1753
 
+### Lunch
+Picnic on the Geißhorn??? (just a suggestion)
+
 ### When???
 ~1&nbsp;hour hike from Geißhorn to **Mindelheimer Hütte**
+
+### Dinner
+???
 
 ### Sleep
 See above
