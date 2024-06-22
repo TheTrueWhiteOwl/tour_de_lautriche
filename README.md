@@ -6,14 +6,15 @@ The repository where we organise everything we need in preparation for the hikin
 
 ## Members
 
+- Aidan
 - João
-- Luca
 - Julian
-- Sergio
 - Kamen
 - Kai
-- Aidan
+- Luca
+- Sergio
 
 ## Important Documents
 
-[Schedule](schedule)
+- [Schedule](schedule.md)
+- [Pack List](pack_list.md)
