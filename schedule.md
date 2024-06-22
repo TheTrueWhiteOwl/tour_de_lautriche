@@ -20,8 +20,8 @@ Do ??? in Obersdorf
 ### Sleep
 At *???* in Obersdorf
 #### Cost
-Deposit of EUR\ 45.94 per person
-Payment of EUR\ ??? per person
+Deposit of EUR&nbsp;45.94 per person
+Payment of EUR&nbsp;??? per person
 
 ### Note
 It has now become unclear whether we are sleeping in Oberstdorf or in Birgsau... Based on the document it is implied that we are sleeping in Birgsau, but at the same time there is a link to a hostel in Oberstdorf... From your messages it also seems that you booked a place in Oberstdorf. Luca, please clarify.
@@ -34,7 +34,7 @@ It has now become unclear whether we are sleeping in Oberstdorf or in Birgsau...
 #### Information
 [Schedule](https://www.mona-allgaeu.de/fileadmin/user_upload/Gemeinde-Fahrplaene/MOA_PF-Oberstdorf.pdf)
 #### Cost
-EUR\ ??? per person
+EUR&nbsp;??? per person
 
 ### When???
 Hike to **Mindelheimer Hütte**
@@ -42,7 +42,7 @@ Hike to **Mindelheimer Hütte**
 ### Sleep
 At *???* in **Mindelheimer Hütte**
 #### Cost
-EUR\ ??? per person
+EUR&nbsp;??? per person
 
 
 ## 2024-08-13
@@ -65,8 +65,8 @@ Watch sunset in Widderstein Hütte
 ### Sleep
 At *???* in Widderstein Hütte
 #### Cost
-Deposit of EUR\ 32.5 per person
-Payment of EUR\ ??? per person
+Deposit of EUR&nbsp;32.5 per person
+Payment of EUR&nbsp;??? per person
 
 
 ## 2024-08-15
@@ -82,9 +82,9 @@ At *Apart Wolf Arlberg* near Körbersee
 #### Location
 https://www.openstreetmap.org/way/521796708
 #### Cost
-Deposit of EUR\ 27.14 per person
-Payment of EUR\ 64.23 per person
-Total of EUR\ 91.37 per person and EUR\ 639.60 for everyone
+Deposit of EUR&nbsp;27.14 per person
+Payment of EUR&nbsp;64.23 per person
+Total of EUR&nbsp;91.37 per person and EUR&nbsp;639.60 for everyone
 
 
 ## 2024-08-16
