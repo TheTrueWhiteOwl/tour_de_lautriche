@@ -40,7 +40,7 @@ https://www.openstreetmap.org/way/227911613
 - [Check route](https://www.mona-allgaeu.de/)
 - [Schedule](https://www.mona-allgaeu.de/fileadmin/user_upload/Gemeinde-Fahrplaene/MOA_PF-Oberstdorf.pdf)
 #### Cost
-EUR&nbsp;4.61 per person
+- EUR&nbsp;4.61 per person
 
 ### When???
 ~2&nbsp;hour hike from **Birgsau** to **Mindelheimer Hütte**
@@ -55,7 +55,7 @@ At **Mindelheimer Hütte**
 #### Location
 https://www.openstreetmap.org/way/38431259
 #### Cost
-EUR&nbsp;??? per person
+- EUR&nbsp;??? per person
 
 
 ## 2024-08-13
@@ -69,7 +69,7 @@ https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=47.2923%
 Picnic on the Geißhorn??? (just a suggestion)
 
 ### When???
-~1&nbsp;hour hike from Geißhorn to **Mindelheimer Hütte**
+~1&nbsp;h hike from Geißhorn to **Mindelheimer Hütte**
 
 ### Dinner
 ???
@@ -81,15 +81,15 @@ See above
 ## 2024-08-14
 
 ### When???
-~???&nbsp;hour hike to **Widderstein Hütte**
-#### Route
+~2&nbsp;h hike from **Mindelheimer Hütte** to **Widdersteinhütte**. Following the via Alpina, SAC scale T2.
+#### Route (seems to be displayed completely wrong)
 https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=47.2923%2C10.1949%3B47.2785%2C10.1369
 
 ### Evening
-Watch sunset from **Widderstein Hütte**
+Watch sunset from **Widdersteinhütte**
 
 ### Sleep
-At **Widderstein Hütte**
+At **Widdersteinhütte**
 #### Location
 https://www.openstreetmap.org/way/101963413
 #### Cost
