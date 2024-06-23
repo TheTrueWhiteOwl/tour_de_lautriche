@@ -127,7 +127,7 @@ See above
 ## 2024-08-17
 
 ### Morning
-~1&nbsp;hour hike to **Warth Dorfplatz**
+~1&nbsp;hour hike to Warth
 #### Route
 https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=47.2680%2C10.1437%3B47.2582%2C10.1833#map=14/47.2633/10.1634
 
