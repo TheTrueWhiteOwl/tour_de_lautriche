@@ -81,7 +81,7 @@ See above
 ## 2024-08-14
 
 ### When???
-~2&nbsp;h hike from **Mindelheimer Hütte** to **Widdersteinhütte**. Following the via Alpina, SAC scale T2.
+~2&nbsp;h hike from **Mindelheimer Hütte** to **Widdersteinhütte**. Following the Via Alpina Stage 52 (SAC scale T2).
 #### Route (seems to be displayed completely wrong)
 https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=47.2923%2C10.1949%3B47.2785%2C10.1369
 
